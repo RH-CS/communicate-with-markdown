@@ -6,3 +6,7 @@
 ```java
 string text = "Hi"
 ```
+- [x] wake up
+- [x] go to school
+- [ ] get home
+- [ ] sleep
